@@ -1,4 +1,21 @@
-<<<<<<< HEAD
+Our Little Lemon restaurant has back to life once again. Here you may find my project with responsive design and powered with React;
+
+
+![1](https://github.com/user-attachments/assets/67b5d0ba-0ac5-4d2f-9a36-01bae548aae6)
+
+![2](https://github.com/user-attachments/assets/1fcc312c-e918-4e24-aad4-981b2d7bd0be)
+
+![3](https://github.com/user-attachments/assets/cbe36a24-d01c-452a-8663-d76f821afc2f)
+
+![4](https://github.com/user-attachments/assets/89e6be2b-2873-4a74-8849-468a3bff31e4)
+
+![5](https://github.com/user-attachments/assets/9c72374d-9ae1-4bdb-85d2-2a0c2f02ec28)
+
+![6](https://github.com/user-attachments/assets/3608f1cc-9f82-4a73-be56-36b0fa1651f3)
+
+![7](https://github.com/user-attachments/assets/921da4de-c576-47cc-86ab-bd5fcd107e8c)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
